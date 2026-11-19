@@ -2,7 +2,7 @@
 
 **Senior Software Engineer & Technical Lead · Engineering AI systems for production**
 
-I've spent 20+ years building software end to end, from unclear requirements to production: web and mobile apps, Java services and search platforms. Now I'm moving into AI engineering, with a focus on machine learning. The repos below are the bridge: a Claude agent, a full-stack app and three ML projects.
+I've spent 20+ years delivering software end to end, from unclear requirements to production, as engineer and technical lead: web and mobile apps, Java services and search platforms. Now I'm moving into AI engineering, with a focus on machine learning. The repos below are the bridge: a Claude agent, a full-stack app and three ML projects.
 
 Open to AI Engineer and Machine Learning Engineer roles. I also take fixed-scope work building Claude agents.
 
