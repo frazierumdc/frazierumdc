@@ -1,6 +1,6 @@
 # Sean Frazier
 
-**Senior Software Engineer & Technical Lead · Search, data pipelines & applied AI**
+**Senior Software Engineer & Technical Lead · Data & AI systems that reach production**
 
 Moving into data and AI architecture, and open to Solutions Architect and Data & AI architect roles. I also take fixed-scope work building Claude agents and data workflows.
 
